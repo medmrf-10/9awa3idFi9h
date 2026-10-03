@@ -733,5 +733,6 @@
  ],
  "n_words": 99970,
  "capped": 0,
- "gz_bytes": 4805018
+ "gz_bytes": 4805018,
+ "url_note": "Arabic shard filenames MUST be percent-encoded (urllib.parse.quote) — raw non-ASCII URLs get 400"
 }
